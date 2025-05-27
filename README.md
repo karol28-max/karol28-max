@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi there! I'm Karol Lopez
 
-<!--
-**karol28-max/karol28-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst in training, currently enrolled in a professional bootcamp. I'm passionate about discovering insights through data and building tools that help make better decisions.
 
-Here are some ideas to get you started:
+Here you'll find my learning journey, personal projects, and practical applications of data analysis using Python, SQL, and modern visualization tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Technical Skills
+
+**Languages:** Python, SQL  
+**Analysis:** pandas, numpy, matplotlib, seaborn, scikit-learn  
+**Visualization:** Tableau, Power BI, Plotly, Streamlit  
+**Tools:** Jupyter Notebook, Git/GitHub, Excel  
+**Other:** Data cleaning, Statistical testing, EDA, Dashboards
+
+---
+
+## 🚀 Featured Project
+
+🔹 **Interactive Car Sales Dashboard**  
+Built with Streamlit and Plotly Express to explore used car listings in the US.  
+🖥️ [Try it live](https://vehicles-interactive-dashboard.onrender.com/)
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: [karolnicole@yahoo.com]
+- 💼 LinkedIn: [www.linkedin.com/in/karol-lopez-services)
+
+---
+
