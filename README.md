@@ -1,24 +1,18 @@
 👋 Hi there! I'm Karol Lopez
 
-I'm a Data Analyst in training, currently completing a professional bootcamp at TripleTen LatAm. I am passionate about discovering insights through data and building interactive tools that help make better business decisions.
+I’m a Data Analyst with a strong foundation in data cleaning, exploratory analysis, and visualization. Proficient in Excel, SQL, Python, and Tableau, I enjoy turning raw data into clear insights that support better business decisions.  
 
-Here you'll find my learning journey, personal projects, and practical applications of data analysis using Python, SQL, and modern visualization tools.
+Alongside my analytics background, I work as a Virtual Assistant in the immigration law field, where I manage cases, organize workflows, and strengthen problem-solving skills—bringing a unique perspective to my analytical work.  
 
----
-
-👨‍💻 About Me
-🌍 Based in Honduras  
-💼 Currently enhancing my skills as a Data Analyst through hands-on projects in exploratory data analysis, A/B testing, and dashboard development  
-🎓 Completed specialized bootcamp training in Python, Pandas, Matplotlib, Streamlit, SQL, and statistical analysis  
-🌟 Passionate about turning raw data into actionable insights and creating user-friendly interactive dashboards
+I’m detail-oriented, adaptable, and focused on building strong relationships. I thrive under pressure, stay organized in fast-paced environments, and approach challenges creatively. I’m excited to apply my data skills to meaningful projects and collaborate with teams to make an impact.
 
 ---
 
 🛠️ Technical Skills
 **Languages:** Python, SQL  
-**Data Analysis:** Pandas, NumPy, SciPy, Scikit-learn  
+**Data Analysis:** Pandas, NumPy, SciPy, Scikit-learn, Excel  
 **Visualization Tools:** Matplotlib, Seaborn, Plotly, Tableau, Power BI, Streamlit  
-**Other Tools:** Jupyter Notebook, Git/GitHub, Excel, Data Cleaning, Statistical Testing, Hypothesis Testing, EDA, Dashboards  
+**Other Tools:** Jupyter Notebook, Git/GitHub, Data Cleaning, Statistical Testing, Hypothesis Testing, EDA, Dashboards  
 
 ---
 
@@ -41,10 +35,11 @@ Summary: Applied ICE and RICE frameworks to prioritize business hypotheses. Anal
 
 📫 Let's Connect
 **Email:** karolnicole@yahoo.com  
-**LinkedIn:** [www.linkedin.com/in/karollopez-dataanalyst]
+**LinkedIn:** [www.linkedin.com/in/karollopez-dataanalyst](www.linkedin.com/in/karollopez-dataanalyst)  
+**GitHub:** [github.com/karol28-max](https://github.com/karol28-max)  
 **Portfolio:** Coming Soon!  
 
 ---
 
 🚀 Fun Fact
-I love transforming complex data into clear insights that drive decisions. My mission is to create interactive tools that make data actionable and accessible.
+I love transforming complex data into actionable insights. My mission is to create interactive, user-friendly tools that make data accessible and impactful.
